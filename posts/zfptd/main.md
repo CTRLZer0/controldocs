@@ -1,9 +1,9 @@
 ---
 title: "zftpd — Technical Deep Dive"
 date: "2025-02-13"
-authors: ["seregonwar"]
+authors: ["Seregon - CTRLZERODEV Team"]
 tags: ["ftp", "zftpd", "architecture", "whitepaper", "performance"]
-cover: "https://github.com/seregonwar/zftpd/blob/main/assets/zftpd-logo.png"
+cover: "https://raw.githubusercontent.com/seregonwar/zftpd/main/assets/zftpd-logo.png"
 description: "A technical deep-dive into zftpd's architecture: zero-copy I/O, platform abstraction, memory safety, and near line-rate performance on PS4, PS5, and POSIX systems."
 ---
 
